@@ -1,0 +1,66 @@
+<div class="notice">
+			<br />
+			<h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration</h2>
+			
+			<div class="error">
+<form action='user_register.php' method='POST'>
+<table>
+	<tr>
+		<td>
+		Your full name:
+		</td>
+		<td>
+		<input type='text' name='fullname' >
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Choose username:
+		</td>
+		<td>
+		<input type='text' name='username' >
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Enter password:
+		</td>
+		<td>
+		<input type='password' name='password'>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Renter password:
+		</td>
+		<td>
+		<input type='password' name='password1'>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Phone Number:
+		</td>
+		<td>
+		<input type='text' name='phoneno'>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Address:
+		</td>
+		<td>
+		<input type='text' name='address'>
+		</td>
+	</tr>
+</table>
+<p>
+<input type='Submit' value='Submit' name='Submit'>
+</p>
+</form>
+</div>
+</div>
+			<br>
+
+			<br>
+			
