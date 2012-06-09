@@ -1,2 +1,17 @@
-A website wherein the supplier supplies the laptops , the user logs in and chooses the laptop of his choice . If he wishes , he can contact the supplier for the same . The whole site is moderated by a superuser.
+A website wherein the supplier supplies the laptops , the user logs in and chooses the laptop of his choice .
+If he wishes , he can contact the supplier for the same .
+The whole site is moderated by a superuser.
 Responsibilities: Doing the complete backend and frontend of a website wherein customers choose their laptop of their choice and consult the suppliers of the same with ease.
+
+The person has to create mysql database however and add the 4 tables with the appropriate tables - 
+1.user
+2.supplier
+3.superuser
+4.description
+
+He has to have wamp server / xampp server /lamp srever up and running . 
+
+Requires - 
+php 5+
+phpmyadmin
+apache 2.1+
